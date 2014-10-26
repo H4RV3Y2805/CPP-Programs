@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1414359379 source:c:\cpp programs\conversion inches to other\main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
